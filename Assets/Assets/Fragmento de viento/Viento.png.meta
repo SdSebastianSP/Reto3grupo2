@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 862a38ceadf3c1740a02d2f77ef5af32
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Viento_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 745
+        width: 455
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801b05d029a3b6a4eabe6895835a540e
+      internalID: 1710378324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Viento_1
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 778
+        width: 419
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dfccf9d7d29a44ea164c688d93b4bf
+      internalID: 204735692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Viento_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 45
+        width: 550
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384961575e38cbc42a83edc59e732488
+      internalID: -1088250383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Viento_5
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 105
+        width: 454
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c297e93e1ed32743ae7b68087e32d11
+      internalID: 1490984373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Viento_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 259
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6849c476f08486848afc316890c15208
+      internalID: -77727704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7580bdfdec0f72042ba061dc1908e6a2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Viento_0: 1710378324
+      Viento_1: 204735692
+      Viento_10: 102222001
+      Viento_11: 667953303
+      Viento_12: 1729611769
+      Viento_13: -917339712
+      Viento_14: -5596003
+      Viento_15: -930276562
+      Viento_16: -1433746491
+      Viento_17: 1071835772
+      Viento_18: 608833417
+      Viento_19: -77727704
+      Viento_2: -1088250383
+      Viento_20: -1782880674
+      Viento_21: 1943965953
+      Viento_22: -477638450
+      Viento_23: -302355182
+      Viento_24: -1231577768
+      Viento_25: -1402266100
+      Viento_26: -956680036
+      Viento_27: 300045164
+      Viento_28: 660435344
+      Viento_29: -1873530901
+      Viento_3: -1933843559
+      Viento_30: -1565909681
+      Viento_31: 1437711926
+      Viento_32: -1387572296
+      Viento_33: 1935904804
+      Viento_34: -1548021131
+      Viento_35: 119489835
+      Viento_36: -778107231
+      Viento_37: 1691699224
+      Viento_38: 1060129830
+      Viento_39: -1000418411
+      Viento_4: -1952242817
+      Viento_40: 1087922884
+      Viento_41: 306361715
+      Viento_42: 2035347467
+      Viento_43: 119465732
+      Viento_44: -1777346166
+      Viento_5: 1490984373
+      Viento_6: 1676717797
+      Viento_7: -555098209
+      Viento_8: 480350096
+      Viento_9: 2100468161
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
