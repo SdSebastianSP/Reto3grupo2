@@ -6,9 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/LVL Lobby.unity
+    guid: 4999c41a013466844aa92e78ebb07f88
+  - enabled: 1
     path: Assets/Scenes/Cristales de Sol.unity
     guid: 88117420758d88043ab4cca2e7f772d9
   - enabled: 1
-    path: Assets/Scenes/Lvl2_Santiago.unity
-    guid: 271240c917f79564381d97f41abd1adf
+    path: Assets/Scenes/Agua Purificante.unity
+    guid: bf6ce195e38c30d43a3703202caff5f0
+  - enabled: 1
+    path: Assets/Scenes/Fuego Vigorizante.unity
+    guid: ff839d3f462ec204891761600649c4e0
+  - enabled: 1
+    path: Assets/Scenes/Aire Envolvente.unity
+    guid: 4c7fedb1e6f2f4c49a6fde6d28ff4f36
   m_configObjects: {}
